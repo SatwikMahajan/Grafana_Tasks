@@ -90,7 +90,7 @@ This document covers **two core tasks** performed during the Grafana customizati
 
 <img width="952" height="474" alt="Screenshot 2025-10-09 at 10 37 21 PM" src="https://github.com/user-attachments/assets/9d8e47e1-d102-46a3-bf96-3db1e0a2fd8a" />
 
-  - Final Outcome - 
+  - Final Outcome of stream - 
 
 <img width="707" height="534" alt="Screenshot 2025-10-09 at 10 37 43 PM" src="https://github.com/user-attachments/assets/42937c76-d55f-45d1-96f4-6153b829539d" />
 
@@ -98,3 +98,4 @@ This document covers **two core tasks** performed during the Grafana customizati
   - https://volkovlabs.io/blog/pizzeria-canvas-20230723
   - GitHub – AlexxIT/go2rtc : Ultimate camera streaming application with support for RTSP, RTMP, WebRTC, HLS, FFmpeg, etc.
   - GitHub – cxnturi0n/grafana-livecamera-rtsp-webrtc : Embed RTSP live camera feed into Grafana using go2rtc streaming server.
+
